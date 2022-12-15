@@ -1,0 +1,83 @@
+.BookingHistory {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headerComponents {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+.heading {
+    margin: auto;
+    font-family: Quicksand;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    height: 19px;
+    left: 91px;
+    top: 30px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.bookingCard {
+    background: linear-gradient(96.25deg, #0037C5 8.58%, #08005F 102.54%);
+    width: 334px;
+    height: 75px;
+    left: 24px;
+    top: 88px;
+    border-radius: 9px;
+    display: flex;
+    margin:auto;
+    justify-content: space-around;
+}
+
+.bookingFont {
+    color: #fff;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 19px;
+    text-transform: capitalize;
+    margin: auto;
+
+}
+
+.bookNowbtn {
+    background: linear-gradient(83.18deg, #FF8412 -30.08%, #D23758 60.11%, #B1008A 97.49%);
+    border: 1px solid #FFFFFF !important;
+    border-radius: 50px !important;
+    margin: auto !important;
+}
+
+
+.footerBtn {
+    position: fixed;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
+
+.backbtn {
+    background: linear-gradient(94.33deg, #F1F1F1 22.44%, #F1F1F1 124.46%) !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 50px !important;
+    width: 321px !important;
+    height: 49px !important;
+    font-family: 'Quicksand';
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 12px !important;
+    line-height: 15px !important;
+    text-align: center !important;
+    text-transform: capitalize;
+    color: #000000 !important; 
+
+}

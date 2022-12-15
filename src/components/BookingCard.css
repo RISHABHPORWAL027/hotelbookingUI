@@ -1,0 +1,105 @@
+*{
+    font-family: 'Quicksand';
+
+}
+
+
+
+.card {
+    width: 334px;
+    height: 259px;
+    left: 24px;
+    top: 176px;
+    background: #F6F6F6 !important;
+    border-radius: 9px !important;
+    margin: auto;
+    margin-top:1rem !important;
+}
+
+.cardContent {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.cardBtn {
+    width: 69.76px !important;
+    background: linear-gradient(94.33deg, #FF8412 22.44%, #FF8412 22.45%, #B1008A 124.46%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 50px !important;
+}
+
+.cardBtn1 {
+    width: 69.76px !important;
+    background: #fff !important;
+    color: black !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 50px !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px !important;
+    line-height: 16px;
+    text-align: center;
+}
+
+.dateText {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.docText {
+    font-style: small;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #E97000;
+}
+
+.clincText {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: capitalize;
+    color: #000000;
+
+}
+
+.cardBtn2 {
+    width: 94.67px !important;
+    height: 33.33px !important;
+    color: #fff !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 50px !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px !important;
+    line-height: 12px;
+    text-align: center;
+    background: linear-gradient(93.12deg, #B1008A -19.35%, #060D67 122.43%) !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 50px !important;
+}
+
+
+.cardBtn3 {
+    width: 94.67px !important;
+    height: 33.33px !important;
+    color: #000000 !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+    border-radius: 50px !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px !important;
+    line-height: 12px;
+    text-align: center;
+    border: 1px solid #999999 !important;
+    border-radius: 27px !important;
+    border-radius: 50px !important;
+    color:#000000;
+}
